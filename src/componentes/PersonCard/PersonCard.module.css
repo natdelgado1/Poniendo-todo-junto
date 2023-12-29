@@ -1,0 +1,20 @@
+.personCard{
+    border: black solid;
+    border-radius: 5%;
+    width: 300px; 
+    margin: 0 auto; 
+    text-align: left;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.birthdaybtn{
+    background-color: rgb(132, 226, 166);
+    width: 20em;
+    height: 2em;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 20px;
+    border: solid black 2px;
+}
+
